@@ -34,8 +34,7 @@ int main() {
 
             if (str[j] == s) {
                 start = j;
-            }
-            if (str[j] == e) {
+            } else if (str[j] == e) {
                 end = j;
             }
         }
