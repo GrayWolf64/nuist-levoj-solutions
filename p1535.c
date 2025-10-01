@@ -14,17 +14,14 @@ void strrev_mn(char str[], int m, int n) {
 
 int main() {
     int n;
-    scanf("%d", &n);
-    getchar();
+    scanf("%d\n", &n);
 
     for (int i = 0; i < n; ++i) {
         char str[501];
-        scanf("%500s", str);
-        getchar();
+        scanf("%500s\n", str);
 
         char s, e;
-        scanf("%c %c", &s, &e);
-        getchar();
+        scanf("%c %c\n", &s, &e);
 
         int start = -1, end = -1;
         int len = strlen(str);
