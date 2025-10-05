@@ -1,4 +1,4 @@
-# nuist-levoj-solutions
+# NUIST Leverage Solutions
 
 Store some of my solutions to NUIST LevOJ problems.
 
