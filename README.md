@@ -10,3 +10,8 @@ If you try to inspect your solutions on LevOJ, you'll get `Hidden by admin`. Acc
 // ALGO: algo_name
 void algo(int in) {};
 ```
+
+```c
+// NOTE: This algo is very slow
+void algo1(int in) {};
+```
