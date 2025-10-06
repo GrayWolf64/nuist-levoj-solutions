@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+// NOTE: This is identical to that of P1004
 void str_num_add(char a[], char b[]) {
     int len_a = strlen(a), len_b = strlen(b);
     int len_max = (len_a > len_b) ? len_a : len_b;
