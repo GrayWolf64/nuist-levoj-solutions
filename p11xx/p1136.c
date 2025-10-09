@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+// ALGO: High Precision Multiplication
 void str_num_mul(char a[], char b[]) {
     int len_a = strlen(a), len_b = strlen(b);
     int res_len = len_a + len_b;
