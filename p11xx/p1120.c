@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// NOTE: This is identical to that of P1004
+// NOTE: This is identical to that of P1004, P1664
 // ALGO: High Precision Addition
 void str_num_add(char a[], char b[]) {
     int len_a = strlen(a), len_b = strlen(b);
