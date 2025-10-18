@@ -1,0 +1,4 @@
+*.exe
+
+launch.json
+tasks.json
