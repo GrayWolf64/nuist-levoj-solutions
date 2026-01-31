@@ -2,7 +2,7 @@
 
 Store some of my solutions to NUIST LevOJ problems.
 
-If you try to inspect your solutions on LevOJ, you'll get `Hidden by admin`. According to teacher Pan, it's "all former students' doing".
+If you try to inspect your solutions on LevOJ, you'll get `Hidden by admin`.
 
 ## Tags in Source Files
 
